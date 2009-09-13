@@ -1,0 +1,2 @@
+<?php
+$templateoptions['jquery'] = true;

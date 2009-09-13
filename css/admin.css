@@ -1,0 +1,11 @@
+div.pagination span.prev, div.pagination span.next, div.pagination a.hidden {
+  display: none;
+}
+
+div.pagination a strong {
+  text-decoration: none;
+}
+
+div.pagination a.prev, div.pagination a.next {
+  -moz-outline-style: none;
+}
